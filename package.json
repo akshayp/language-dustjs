@@ -1,0 +1,11 @@
+{
+  "name": "language-dustjs",
+  "version": "0.1.0",
+  "description": "Dust JS Language support in Atom",
+  "repository": "https://github.com/akshayp/language-dustjs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0",
+    "node": "*"
+  }
+}
