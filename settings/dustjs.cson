@@ -1,0 +1,4 @@
+'.text.html.dustjs':
+  'editor':
+    'commentStart': '{! '
+    'commentEnd': ' !}'
